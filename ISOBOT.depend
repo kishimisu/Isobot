@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1525205188 source:c:\users\alex\desktop\allègrement3\action.c
+	"main.h"
+
+1525593594 c:\users\alex\desktop\allègrement3\main.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<allegro.h>
+	<string.h>
+	<math.h>
+	"structures.h"
+	"action.h"
+	"characters.h"
+	"editor.h"
+	"game.h"
+	"map.h"
+	"menu.h"
+	"mouse.h"
+	"sequence.h"
+	"utilities.h"
+
+1525627386 c:\users\alex\desktop\allègrement3\structures.h
+
+1524751004 c:\users\alex\desktop\allègrement3\action.h
+
+1524822256 c:\users\alex\desktop\allègrement3\characters.h
+
+1523813494 c:\users\alex\desktop\allègrement3\editor.h
+
+1525593713 c:\users\alex\desktop\allègrement3\game.h
+
+1525627192 c:\users\alex\desktop\allègrement3\map.h
+
+1525627145 c:\users\alex\desktop\allègrement3\menu.h
+
+1524707432 c:\users\alex\desktop\allègrement3\mouse.h
+
+1524749956 c:\users\alex\desktop\allègrement3\sequence.h
+
+1525627104 c:\users\alex\desktop\allègrement3\utilities.h
+
+1525627211 source:c:\users\alex\desktop\allègrement3\characters.c
+	"main.h"
+
+1525627471 source:c:\users\alex\desktop\allègrement3\editor.c
+	"main.h"
+
+1525593713 source:c:\users\alex\desktop\allègrement3\game.c
+	"main.h"
+
+1525626947 source:c:\users\alex\desktop\allègrement3\main.c
+	"main.h"
+
+1525627386 source:c:\users\alex\desktop\allègrement3\map.c
+	"main.h"
+
+1525627169 source:c:\users\alex\desktop\allègrement3\menu.c
+	"main.h"
+
+1525271868 source:c:\users\alex\desktop\allègrement3\mouse.c
+	"main.h"
+
+1525271232 source:c:\users\alex\desktop\allègrement3\sequence.c
+	"main.h"
+
+1525627104 source:c:\users\alex\desktop\allègrement3\utilities.c
+	"main.h"
+
+1525205188 source:c:\users\alex\desktop\isobot\projet isobot\action.c
+	"main.h"
+
+1525593594 c:\users\alex\desktop\isobot\projet isobot\main.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<allegro.h>
+	<string.h>
+	<math.h>
+	"structures.h"
+	"action.h"
+	"characters.h"
+	"editor.h"
+	"game.h"
+	"map.h"
+	"menu.h"
+	"mouse.h"
+	"sequence.h"
+	"utilities.h"
+
+1526204586 c:\users\alex\desktop\isobot\projet isobot\structures.h
+
+1524751004 c:\users\alex\desktop\isobot\projet isobot\action.h
+
+1524822256 c:\users\alex\desktop\isobot\projet isobot\characters.h
+
+1523813494 c:\users\alex\desktop\isobot\projet isobot\editor.h
+
+1526203728 c:\users\alex\desktop\isobot\projet isobot\game.h
+
+1525627192 c:\users\alex\desktop\isobot\projet isobot\map.h
+
+1526203559 c:\users\alex\desktop\isobot\projet isobot\menu.h
+
+1524707432 c:\users\alex\desktop\isobot\projet isobot\mouse.h
+
+1524749956 c:\users\alex\desktop\isobot\projet isobot\sequence.h
+
+1525627104 c:\users\alex\desktop\isobot\projet isobot\utilities.h
+
+1526200419 source:c:\users\alex\desktop\isobot\projet isobot\characters.c
+	"main.h"
+
+1526203947 source:c:\users\alex\desktop\isobot\projet isobot\editor.c
+	"main.h"
+
+1526203947 source:c:\users\alex\desktop\isobot\projet isobot\game.c
+	"main.h"
+
+1526203375 source:c:\users\alex\desktop\isobot\projet isobot\main.c
+	"main.h"
+
+1526204586 source:c:\users\alex\desktop\isobot\projet isobot\map.c
+	"main.h"
+
+1526241206 source:c:\users\alex\desktop\isobot\projet isobot\menu.c
+	"main.h"
+
+1526200640 source:c:\users\alex\desktop\isobot\projet isobot\mouse.c
+	"main.h"
+
+1526200400 source:c:\users\alex\desktop\isobot\projet isobot\sequence.c
+	"main.h"
+
+1525627104 source:c:\users\alex\desktop\isobot\projet isobot\utilities.c
+	"main.h"
+

@@ -1,0 +1,55 @@
+=== AIDE POUR LES CONTROLES ===
+
+
+Menu de selection des niveaux :
+
+[GAUCHE, DROITE] Changer de niveau
+[ENTREE] Charger le niveau
+
+
+========================================================================
+
+
+En jeu:
+
+Faites arriver chaque personnage sur une case rouge et activez la en case verte.
+
+[GAUCHE, DROITE] Deplacer le point de vue de la camera
+[ESPACE] Zoomer / Dezoomer
+[ECHAP] Quitter
+
+[Bouton vert] Lancer la sequence
+[Bouton jaune] Mettre la sequence en pause
+[Bouton bleu] Executer l'action suivante, puis mettre en pause
+[Bouton rouge] Reinitialiser le niveau (les sequences restent intactes)
+
+Actions dans l'ordre (dans le menu Action) :
+
+Avancer,
+Tourner de 90 degres a gauche,
+Tourner de 90 degrés a droite,
+Ne rien faire, 
+Tourner la camera de 90 degres a gauche, (dispoible uniquement pour le robot principal)
+Tourner la camera de 90 degres a droite (dispoible uniquement pour le robot principal)
+
+
+========================================================================
+
+
+Dans l'editeur :
+
+[Z,Q,S,D,HAUT,BAS] Deplacer le curseur
+[ESPACE] Zoomer / Dezoomer
+[R] Afficher / Masquer les aides spatiales
+[A,E] Changer de bloc
+[ENTREE] Poser un bloc
+[DELETE] Supprimer un bloc
+[ECHAP] Quitter
+
+[O] (uniquement sur un bloc) passe en mode Linkage, avec le bloc selectionne comme ancre
+
+En mode linkage :
+
+[ENTREE] Linker / delinker un bloc a l'ancre
+[P] Affiche les parametres de l'ancre (direction, nombre de cases)
+[O] Pour sortir du mode linkage
