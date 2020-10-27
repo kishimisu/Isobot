@@ -1,4 +1,4 @@
-#include "main.h"
+#include "headers/main.h"
 
 Map createMap(int width, int height, int depth)
 {

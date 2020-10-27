@@ -1,4 +1,4 @@
-#include "main.h"
+#include "headers/main.h"
 
 void clicOnActionMenu(Sequence* sequence, Characters characters, DebugInfos debugInfos, MouseInfos* mouseInfos, WindowsInfos* windowsInfos)
 {

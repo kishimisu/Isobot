@@ -1,4 +1,4 @@
-#include "main.h"
+#include "headers/main.h"
 
 void initDebugInfos(DebugInfos* debugInfos, Sequence* sequences, Characters characters)
 {

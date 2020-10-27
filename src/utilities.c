@@ -1,4 +1,4 @@
-#include "main.h"
+#include "headers/main.h"
 
 BITMAP* load_sprite(const char* filename, struct RGB* pal)
 {

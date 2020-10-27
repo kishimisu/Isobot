@@ -1,4 +1,4 @@
-#include "main.h"
+#include "headers/main.h"
 
 void game(SpriteCollection sprites, WindowsInfos windowsInfos, int level, BITMAP* buffer)
 {

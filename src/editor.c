@@ -1,4 +1,4 @@
-#include "main.h"
+#include "headers/main.h"
 
 void editor(SpriteCollection sprites, BITMAP* buffer)
 {
