@@ -20,15 +20,16 @@ I used this exact behaviour in my game where I make those impossible moves possi
 
 In this image you can see that it may seem impossible to go to the end of the level (in red) because of the gap :
 
-![](images/isobot2.png =250x250)
+<img src="images/isobot2.png" width="503px" height="368px" />
 
 But with the right perspective, it becomes possible :
 
-![](images/isobot5.png)
+<img src="images/isobot5.png" width="503px" height="368px" />
+
 
 # Actions and goal
 
-![](images/actions.png)
+<img src="images/actions.png" />
 
 The availables actions are the following :
 
@@ -50,7 +51,8 @@ There is one type of special block that is represented by a very poorly designed
 
 This increase the complexity of some level and ask for more patience and reflexion. Here is an illustration of this bloc's behaviour :
 
-![](images/isobot6.png) ![](images/isobot7.png)
+<img src="images/isobot6.png" width="503px" height="368px" />
+<img src="images/isobot7.png" width="503px" height="368px" />
 
 <br>
 
@@ -58,10 +60,8 @@ This increase the complexity of some level and ask for more patience and reflexi
 
 In addition, I implemented multi-character support : while creating a level, you can setup as many character as you want (but must have the same number of finishing blocks) and the game will automatically give each character its own sequence manager and the player will have to create the right sequence for each one of them in order to finish the level :
 
-<div class="image-list" style="text-align:center;">
-  <img class="img-expand" src="assets/img/isobot/isobot8.png" width="450px" height=""/> 
-  <img class="img-expand" src="assets/img/isobot/isobot9.png" width="450px" height=""/> 
-</div>
+<img src="images/isobot8.png" width="503px" height="368px" />
+<img src="images/isobot9.png" width="503px" height="368px" />
 
 # In-game Editor
 
@@ -69,14 +69,10 @@ I knew that creating a 3-dimensional game rendered in 2D isometric view would ma
 
 In this editor, there are two walls delimiting the boundaries of the back of the level, and semi-transparents lines of blocks that help locating the selection location in 3D, which can be misleading as stated above.
 
-<div style="text-align:center;margin: 50px 0;">
-  <img class="img-expand" src="assets/img/isobot/isobot10.png" width="500px" height=""/>
-</div>
+<img src="images/isobot10.png" width="503px" height="368px" />
 
 <br>
 Also, I needed to add a special _Linkage Mode_ for the Moving blocks. You could enter this mode while on any block in order to set it as a _Linker Block_ and then select all the blocks that should move when the player steps on it, as well as their direction and the distance they should move :
 <br>
 
-<div  style="text-align:center;margin: 50px 0;">
-  <img class="img-expand" src="assets/img/isobot/isobot11.png" width="500px" height=""/>
-</div>
+<img src="images/isobot11.png" width="503px" height="368px" />
